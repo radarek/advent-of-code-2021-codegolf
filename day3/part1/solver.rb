@@ -1,0 +1,1 @@
+g=0;(a=[*$<]).map(&:chars).transpose.map{g=2*g+(_1.count(?1)>_1.size/2?1:0)};p g/2*(2**(a[0].size-1)-1-g/2)
