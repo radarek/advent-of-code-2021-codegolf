@@ -1,1 +1,1 @@
-gets.split((gets p;?,)){|n|$_.gsub!(/\b#{n}\b/x){$&[1]?' x':?x};0.upto(14){(v= ~/^(.x.){5}|(^.{#{_1}}x[ \w]*?\n){5}/m)&&p($_[v-v%76,76].scan(/\d+/).sum(&:to_i)*n.to_i)&&exit}}
+gets.split((gets p;?,)){|n|$_.gsub!(/\b#{n}\b/x){$&[1]?' x':?x};0.upto(14){(v= ~/^(.x.){5}|(^.{#{_1}}x[^\n]*?.){5}/m)&&p($_[v-v%76,76].scan(/\d+/).sum(&:to_i)*n.to_i)&&exit}}
