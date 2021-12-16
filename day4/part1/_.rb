@@ -1,6 +1,6 @@
 # ideas:
 # squeezing spaces /\s+/ => ' '
-
+# 1 byte = 1 cell, "foo".sum - sum of bytes
 
 
 # s =~ /\n(^(..\s){1} x (..\s){3}){5}/
