@@ -1,0 +1,1 @@
+a=eval"[#{gets}]";p (a.min..a.max).map{|e|a.sum{n=(_1-e).abs;n*n+n>>1}}.min
