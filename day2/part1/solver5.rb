@@ -1,0 +1,1 @@
+d=p=n=0;eval$<.read.gsub /(.)+ /,'\1+=';p d.*n-p

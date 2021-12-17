@@ -1,0 +1,1 @@
+f=u=d=0;eval$<.read.gsub(/[a-z]+/){_1[0]+'+='};p (d-u)*f
