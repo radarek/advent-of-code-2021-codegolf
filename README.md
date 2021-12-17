@@ -8,4 +8,4 @@ Here is my take of [Advent of Code 2021](https://adventofcode.com/2021). My pers
 |---------|--------|--------|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [28](day1/part1/solver2.rb) | |
 | [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | [78](day3/part1/solver5.rb) | [117](day3/part2/solver4.rb) |
-| [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | [154](day4/part1/solver4.rb) | |
+| [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | [154](day4/part1/solver4.rb) | [205](day4/part2/solver3.rb) |
