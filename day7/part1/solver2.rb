@@ -1,0 +1,1 @@
+a=eval'['+gets+'].sort';p a.sum{(_1-a[a.size/2]).abs}

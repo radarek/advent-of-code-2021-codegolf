@@ -1,0 +1,1 @@
+a=eval"[#{gets}]";p a.map{|e|a.sum{(_1-e).abs}}.min
