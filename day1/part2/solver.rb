@@ -1,0 +1,1 @@
+a=*$<;p (0..a.size-4).count{a[_1].to_i<a[_1+3].to_i}

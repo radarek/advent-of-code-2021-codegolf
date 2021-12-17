@@ -1,0 +1,1 @@
+a=*$<;i=2;p a.count{_1.to_i<a[i+=1].to_i}
