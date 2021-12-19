@@ -10,3 +10,12 @@
 # c=0;h,v=eval gets[13..];[*0..h.max].product([*v.min..-v.min-1]){|u,z|uc,zc=u,z;x,y=0,0;until((h===x&&v===y&&p([uc,zc])&&c+=1)||(y<v.max));x+=u;u>0&&u-=1;y+=z;z-=1;end};p c
 # c=0;h,v=eval gets[13..];[*0..h.max].product([*v.min..-v.min-1]){x,y=0,0;f=->{};(x+=_1;y+=_2;h===x&&v===y&&c+=1)while x<h.min&&y<v.max};p c
 # x1,x2,y1,y2=gets.scan(/-?\d+/).map(&:to_i)
+
+# c=0;h,v=eval gets[13..];[*0..h.max].product([*v.min..-v.min-1]){|u,z|x,y,s=0,0,0;until((h===x&&v===y&&c+=1)||(y<v.min));s+=1;x+=u;u>0&&u-=1;y+=z;z-=1;end;p s}
+# a,=r
+# a=r.min
+# (2*r-n+1)*n/2 - n - number of steps, r - initial speed
+# _1 - horizontal speed
+# _2 - vertical speed
+# _3 - number of steps
+# h,v=eval gets[13..];p [*0..h.max].product([*v.min..-v.min],[*0..-v.min*3]).count{}

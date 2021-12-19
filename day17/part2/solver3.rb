@@ -1,0 +1,1 @@
+h,v=eval gets[13..];n,=*v;p [*0..h.max].product([*n..-n]).count{|x,y|(0..-n*2).any?{s=[_1,x].min;h===(2*x-s+1)*s/2&&v===(2*y-_1+1)*_1/2}}
