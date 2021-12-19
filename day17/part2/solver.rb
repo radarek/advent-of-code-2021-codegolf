@@ -1,0 +1,1 @@
+c=0;h,v=eval gets[13..];[*0..h.max].product([*v.min..-v.min-1]){|u,z|x,y=0,0;until((h===x&&v===y&&c+=1)||(y<v.min));x+=u;u>0&&u-=1;y+=z;z-=1;end};p c
