@@ -1,3 +1,6 @@
+# ideas:
+# * instead of looking for the first hitbox, generate all possible hits for given [vx,vy] velocities and then counts uniques velocities with hits
+
 # target area: x=20..30, y=-10..-5
 # target area: x=150..193, y=-136..-86
 # x,y=eval gets[13..];x.min;x.max;y.min;y.max
