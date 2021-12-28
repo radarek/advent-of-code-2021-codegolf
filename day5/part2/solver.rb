@@ -1,0 +1,1 @@
+C=0..999;l=$<.map{_1[?>]='0,';eval'['+_1+?]};p C.sum{|x|C.count{|y|l.count{|a,b,c,d|(a<=x&&x<=c||c<=x&&x<=a)&&(b<=y&&y<=d||d<=y&&y<=b)&&(((c-a)*(y-b)).abs==((d-b)*(x-a)).abs)}>1}}
