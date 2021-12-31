@@ -14,5 +14,5 @@ Here is my take of [Advent of Code 2021](https://adventofcode.com/2021). My pers
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | [50](day6/part1/solver4.rb) | [81](day6/part2/solver4.rb) |
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | [51](day7/part1/solver4.rb) | [66](day7/part2/solver5.rb) |
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | [42](day8/part1/solver5.rb) | |
-| [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [116](day9/part1/solver4.rb) | [136](day9/part2/solver.rb) |
+| [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [108](day9/part1/solver5.rb) | [136](day9/part2/solver.rb) |
 | [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | [31](day17/part1/solver.rb) | [134](day17/part2/solver5.rb) |
