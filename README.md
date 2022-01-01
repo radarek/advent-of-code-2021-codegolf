@@ -15,7 +15,7 @@ Here is my take of [Advent of Code 2021](https://adventofcode.com/2021). My pers
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | [51](day7/part1/solver4.rb) | [66](day7/part2/solver5.rb) |
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | [42](day8/part1/solver5.rb) | |
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [107](day9/part1/solver6.rb) | [133](day9/part2/solver2.rb) |
-| [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | [93](day10/part/../part1/solver3.rb) | [142](day10/part2/solver.rb) |
+| [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | [93](day10/part/../part1/solver3.rb) | [140](day10/part2/solver2.rb) |
 | [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | [31](day17/part1/solver.rb) | [134](day17/part2/solver5.rb) |
 
 [^1]: [Here](day6/part1/solver3.rb) is a 77 bytes version which computes values on the fly
