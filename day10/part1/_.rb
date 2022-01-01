@@ -1,0 +1,1 @@
+# s=gets;puts s;s.sub!(/([({<\[])(.)/){d=$2.ord-$1.ord;d<1||d>2?$&:''};puts s
