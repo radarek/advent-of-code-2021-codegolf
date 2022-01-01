@@ -1,0 +1,1 @@
+a=$<.map{|c|()while c.sub! /<>|\[]|\(\)|\{}|\n/,'';c.tr(t='x([{<','')<?!?c.reverse.chars.inject(0){_1*5+t.index(_2)}:0}-[0];p a.sort[a.size/2]
