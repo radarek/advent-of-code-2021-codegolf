@@ -30,7 +30,7 @@ ruby solver.rb < test0.in
 | [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | | |
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | | |
 | [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | | |
-| [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | [31](day17/part1/solver.rb) | [134](day17/part2/solver5.rb) |
+| [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | **[30](day17/part1/solver2.rb)** <br> <sub> ~~[31](day17/part1/solver.rb)~~ </sub> | **[134](day17/part2/solver5.rb)** <br> <sub> ~~[135](day17/part2/solver4.rb) [137](day17/part2/solver3.rb) [147](day17/part2/solver2.rb) [149](day17/part2/solver.rb)~~ </sub> |
 | [Day 18: Snailfish](https://adventofcode.com/2021/day/18) | | |
 | [Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19) | | |
 | [Day 20: Trench Map](https://adventofcode.com/2021/day/20) | | |
