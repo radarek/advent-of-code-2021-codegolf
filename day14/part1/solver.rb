@@ -1,0 +1,1 @@
+gets$/*2;h=$<.map{_1.scan /\w+/}.to_h;10.times{i=0;(v=h[$_[i-1,2]];v&&$_[(i+=1)-1,0]=v)while$_[i+=1]>?@};a,b=$_[..-3].chars.tally.values.minmax;p b-a
