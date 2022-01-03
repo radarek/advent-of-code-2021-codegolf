@@ -27,7 +27,7 @@ ruby solver.rb < test0.in
 | [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | | |
 | [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12) | | |
 | [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | | |
-| [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | **[149](day14/part1/solver.rb)** | |
+| [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | **[125](day14/part1/solver2.rb)** <sub> ~~[149](day14/part1/solver.rb)~~ </sub> | |
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | | |
 | [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | | |
 | [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | **[30](day17/part1/solver2.rb)** <sub> ~~[31](day17/part1/solver.rb)~~ </sub> | **[134](day17/part2/solver5.rb)** <sub> ~~[135](day17/part2/solver4.rb) [137](day17/part2/solver3.rb) [147](day17/part2/solver2.rb) [149](day17/part2/solver.rb)~~ </sub> |

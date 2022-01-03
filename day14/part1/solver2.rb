@@ -1,0 +1,1 @@
+gets$/*2;h=$<.map{_1.scan /\w+/}.to_h;10.times{$_.gsub!(/./){"#$&#{h[$&+$'[0]]}"}};a,b=$_.scan(/./).tally.values.minmax;p b-a
